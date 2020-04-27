@@ -51,6 +51,6 @@ if (hours <= 40) {
     let overTime = hours - 40;
     let overTimePay = overTime * wage * 1.5 + wage * 40;
     console.log(
-        `If you make ${wage} dollars an hour and work ${hours} hours a week, you will receive a paycheck of $${overTimePay}.00`
+        `If you make ${wage}.00 dollars an hour and work ${hours} hours a week, you will receive a paycheck of $${overTimePay}.00`
     );
 }
