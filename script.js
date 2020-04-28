@@ -6,7 +6,7 @@ let detroitGC = true;
 let lifeEvents = [
     "I (if Covid allows) am getting married on October 17",
     "I just got a puppy and his name is Mayor -- he is Satan reincarnated",
-    "I graduated from Grand Valley State University with a relatively useless degree",
+    "I graduated from Grand Valley State University",
     "I once broke my wrist while climbing a fence"
 ];
 
